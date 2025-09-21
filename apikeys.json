@@ -1,0 +1,4 @@
+[
+  { "key": "admin123", "role": "admin" },
+  { "key": "viewer456", "role": "viewer" }
+]
